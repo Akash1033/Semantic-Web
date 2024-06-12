@@ -1,0 +1,110 @@
+.container{
+    width : 1170px;
+    height:auto;
+    margin: 0 auto;
+}
+.container .header{
+    width: 1170px;
+    height: 200px;;
+    margin: 0 auto;
+    background-color:rgba(79, 136, 136, 0.514);
+    font-size:36px;
+    text-align: center;
+}.container .content1{
+    width :292.5px;
+    height: 200px;
+    background-color: antiquewhite;
+    float: left;
+    font-size:24px;
+}.container .content2{
+    width :292.5px;
+    height: 200px;
+    background-color: rgb(52, 64, 64);
+    float: left;
+    font-size:24px;
+}.container .content3{
+    width :292.5px;
+    height: 200px;
+    background-color: rgb(235, 250, 215);
+    float: left;
+    font-size:24px;
+}.container .content4{
+    width :292.5px;
+    height: 200px;
+    background-color: rgb(149, 238, 127);
+    float: left;
+    font-size:24px;
+}
+.container .content5{
+    width :292.5px;
+    height: 200px;
+    background-color: rgb(211, 224, 94);
+    float: left;
+    font-size:24px;
+}.container .content6{
+    width :292.5px;
+    height: 200px;
+    background-color: rgb(113, 219, 182);
+    float: left;
+    font-size:24px;
+}
+.container .content7{
+    width :584.4px;
+    height: 200px;
+    background-color: rgb(215, 117, 132);
+    float: left;
+    font-size:24px;
+}
+.container .content8{
+    width :584.4px;
+    height: 180px;
+    background-color: rgb(93, 115, 161);
+    float: left;
+
+
+}.container .content9{
+    width :292.5px;
+    height: 180px;
+    background-color: rgb(58, 89, 68);
+    float: left;
+
+}
+.container .content10{
+    width :292.5px;
+    height: 180px;
+    background-color: rgb(35, 187, 208);
+    float: left;
+
+}
+.container .content11{
+    width :292.5px;
+    height: 180px;
+    background-color: rgb(32, 164, 182);
+    float: left;
+    font-size:24px;
+}
+.container .content12{
+    width :584.4px;
+    height: 180px;
+    background-color: rgb(108, 135, 194);
+    float: left;
+    font-size:24px;
+
+}
+.container .content13{
+    width :292.5px;
+    height: 180px;
+    background-color: rgb(170, 212, 171);
+    float: left;
+    font-size:24px;
+}
+.container .content14{
+    width: 1170px;
+    height: 200px;;
+    background-color:rgba(55, 188, 188, 0.514);
+    float: left;
+    font-size:24px;
+}
+
+
+
